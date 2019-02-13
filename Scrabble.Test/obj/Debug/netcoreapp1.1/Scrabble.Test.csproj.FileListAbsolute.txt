@@ -1,0 +1,17 @@
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble.Test\bin\Debug\netcoreapp1.1\Scrabble.Test.deps.json
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble.Test\bin\Debug\netcoreapp1.1\Scrabble.Test.runtimeconfig.json
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble.Test\bin\Debug\netcoreapp1.1\Scrabble.Test.runtimeconfig.dev.json
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble.Test\bin\Debug\netcoreapp1.1\Scrabble.Test.dll
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble.Test\bin\Debug\netcoreapp1.1\Scrabble.Test.pdb
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble.Test\bin\Debug\netcoreapp1.1\Scrabble.dll
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble.Test\bin\Debug\netcoreapp1.1\Scrabble.pdb
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble.Test\obj\Debug\netcoreapp1.1\Scrabble.Test.csprojAssemblyReference.cache
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble.Test\obj\Debug\netcoreapp1.1\Scrabble.Test.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble.Test\obj\Debug\netcoreapp1.1\Scrabble.Test.AssemblyInfoInputs.cache
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble.Test\obj\Debug\netcoreapp1.1\Scrabble.Test.AssemblyInfo.cs
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble.Test\obj\Debug\netcoreapp1.1\Scrabble.Test.csproj.CopyComplete
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble.Test\obj\Debug\netcoreapp1.1\Scrabble.Test.dll
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble.Test\obj\Debug\netcoreapp1.1\Scrabble.Test.pdb

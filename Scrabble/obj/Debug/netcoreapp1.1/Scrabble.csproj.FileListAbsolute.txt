@@ -1,0 +1,9 @@
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble\bin\Debug\netcoreapp1.1\Scrabble.deps.json
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble\bin\Debug\netcoreapp1.1\Scrabble.dll
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble\bin\Debug\netcoreapp1.1\Scrabble.pdb
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble\obj\Debug\netcoreapp1.1\Scrabble.csprojAssemblyReference.cache
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble\obj\Debug\netcoreapp1.1\Scrabble.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble\obj\Debug\netcoreapp1.1\Scrabble.AssemblyInfoInputs.cache
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble\obj\Debug\netcoreapp1.1\Scrabble.AssemblyInfo.cs
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble\obj\Debug\netcoreapp1.1\Scrabble.dll
+C:\Users\Dave\source\repos\Scrabble.Solution\Scrabble\obj\Debug\netcoreapp1.1\Scrabble.pdb
