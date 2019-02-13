@@ -15,20 +15,18 @@ namespace Scrabble.Tests
             Assert.AreEqual(testStringUpper, test.GetWord());
         }
         [TestMethod]
-        public void ScrabbleScorer_Compare_True()
-        {
-            string testString = "sample";
-            ScrabbleScorer test = new ScrabbleScorer(testString);
-            Assert.AreEqual (true, test.Compare('A', test.GetTierOne()));
-        }
-        [TestMethod]
-        public void ScrabbleScorer_GetLetterScore_Int()
+        public void ScrabbleScorer_GetsScore_Int()
         {
             char testChar = 'A';
-            ScrabbleScorer test = new ScrabbleScorer("Lovely");
-            Assert.AreEqual(1, test.GetLetterScore(testChar));
+            ScrabbleScorer test = new ScrabbleScorer("Doesn't matter");
+            Assert.AreEqual (1, test.Score[testChar]);
         }
-        
+        [TestMethod]
+        public void ScrabbleScorer_ScoresFullWord_Int()
+        {
+            string testString = "Lovely";
+            ScrabbleScorer test = new ScrabbleScorer(testString.ToUpper());
+            Assert.AreEqual(12, test.ScoreWord());
+        }
     }
-
 }

@@ -7,7 +7,7 @@ namespace Scrabble.Models
         private string Word;
         private char[] Letters;
 
-        private Dictionary<char, int> Score = new Dictionary<char,int>()
+        public Dictionary<char, int> Score = new Dictionary<char,int>()
         {
             {'A',1},{'E',1},{'I',1},
             {'O',1},{'U',1},{'L',1},
